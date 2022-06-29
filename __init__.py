@@ -1,8 +1,5 @@
-import pandas as pd
-import numpy as np 
 import streamlit as st 
 import spacy_streamlit 
-from spacy_streamlit import visualize_parser
 from pathlib import Path
 import srsly
 import importlib
