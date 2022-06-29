@@ -1,7 +1,5 @@
-spacy-streamlit
-streamlit
-pandas
-numpy
+spacy>=3.0.0,<3.1.0
+spacy-streamlit>=1.0.0rc1,<1.1.0
 https://github.com/explosion/spacy-models/releases/download/zh_core_web_sm-3.0.0/zh_core_web_sm-3.0.0-py3-none-any.whl#egg=zh_core_web_sm==3.0.0
 https://github.com/explosion/spacy-models/releases/download/zh_core_web_trf-3.0.0/zh_core_web_trf-3.0.0-py3-none-any.whl#egg=zh_core_web_trf==3.0.0
 https://github.com/explosion/spacy-models/releases/download/da_core_news_sm-3.0.0/da_core_news_sm-3.0.0-py3-none-any.whl#egg=da_core_news_sm==3.0.0
