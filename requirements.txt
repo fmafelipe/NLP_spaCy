@@ -1,7 +1,4 @@
 spacy_streamlit
-pathlib
-srsly
-importlib
 streamlit
 pandas
 numpy
