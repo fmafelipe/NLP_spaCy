@@ -1,4 +1,4 @@
-spacy_streamlit
+spacy-streamlit
 streamlit
 pandas
 numpy
